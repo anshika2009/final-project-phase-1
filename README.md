@@ -3,5 +3,7 @@
 # Problem Statement
 Capturing sign gestures and translating to simple English alphabets.
 # Team Memebers
-111720102009 - Anshika S
-111720102046 - Janavi S
+| Name  | College Registration Number |
+| ------------- | ------------- |
+| Anshika S  | 111720102009  |
+| Janavi S  | 111720102046  |
